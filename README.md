@@ -37,3 +37,8 @@ My GitHub contribution graph as a playful animated SVG — contribution boxes po
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/OmidBehzadpoor/SecondHand" align="left"><img align="left" width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=OmidBehzadpoor&repo=SecondHand&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/OmidBehzadpoor/Plants-vs-Zombies" align="right"><img align="right" width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=OmidBehzadpoor&repo=Plants-vs-Zombies&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div align="center">
+  <a href="#">
+  	<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy-downsized.gif" alt="Logo project" height="160" />
+  </a>
+  </div>
