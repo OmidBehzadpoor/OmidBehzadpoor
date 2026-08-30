@@ -30,38 +30,40 @@ I'm a Computer Engineering student at **Amirkabir University of Technology**. I'
 ## 🛠️ Tech Stack
 
 <div align="center">
-
+<img src="https://skillicons.dev/icons?i=java,kotlin,c,cpp,py,spring,html,css,idea,postgres,mysql,docker,linux,ubuntu,git,vscode&theme=dark&perline=8" alt="Tech Stack Icons"/>
+<br/><br/>
+ 
 **Languages**
-
+ 
 ![Java](https://img.shields.io/badge/Java-0891b2?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-ec4899?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/C-0891b2?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-ec4899?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0891b2?style=for-the-badge&logo=python&logoColor=white)
-
+ 
 **Frameworks & Web**
-
+ 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-ec4899?style=for-the-badge&logo=springboot&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-0891b2?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-ec4899?style=for-the-badge&logo=css3&logoColor=white)
-
+ 
 **Databases & Infra**
-
+ 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0891b2?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-ec4899?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0891b2?style=for-the-badge&logo=docker&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-ec4899?style=for-the-badge&logo=render&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-0891b2?style=for-the-badge&logo=linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-ec4899?style=for-the-badge&logo=ubuntu&logoColor=white)
-
+ 
 **Tools**
-
+ 
 ![Git](https://img.shields.io/badge/Git-0891b2?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-ec4899?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-ec4899?style=for-the-badge&logo=intellijidea&logoColor=white)
+ 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,100:ec4899&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1c1917,50:0891b2,100:ec4899&height=4&width=100%" width="100%"/>
 
 ## 🎯 My Contribution Graph, Animated
 
