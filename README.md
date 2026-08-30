@@ -108,7 +108,11 @@ My GitHub contribution graph as a playful animated SVG — contribution boxes po
   <img src="https://cdn.simpleicons.org/gitlab/FC6D26" width="36" height="36" alt="GitLab" title="GitLab" />
 </a>
 <a href="https://www.linkedin.com/in/omid-behzadpoor" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36" alt="LinkedIn" title="LinkedIn" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn" title="LinkedIn" />
+  </picture>
 </a>
 <a href="https://t.me/Omid8607" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="36" height="36" alt="Telegram" title="Telegram" />
