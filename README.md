@@ -102,21 +102,16 @@ My GitHub contribution graph as a playful animated SVG — contribution boxes po
 <div align="center">
 
 <a href="https://www.github.com/OmidBehzadpoor" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub" title="GitHub" />
-  </picture>
+  <img src="https://cdn.simpleicons.org/github/ffffff" width="36" height="36" alt="GitHub" title="GitHub" />
 </a>
 <a href="https://www.gitlab.com/OmidBehzadpoor" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/gitlab/FC6D26" width="36" height="36" alt="GitLab" title="GitLab" />
 </a>
 <a href="https://www.linkedin.com/in/omid-behzadpoor" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn" title="LinkedIn" />
-  </picture>
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36" alt="LinkedIn" title="LinkedIn" />
+</a>
+<a href="https://t.me/Omid8607" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="36" height="36" alt="Telegram" title="Telegram" />
 </a>
 
 <br/><br/>
