@@ -16,12 +16,29 @@ I'm a Computer Engineering student at **Amirkabir University of Technology**. I'
 
 <div align="center">
 
-![Location](https://img.shields.io/badge/📍_Based_in-Tehran,_Iran-1c1917?style=for-the-badge&labelColor=0891b2&color=1c1917)
-![Learning](https://img.shields.io/badge/🧠_Learning-Java_%26_Backend_Architecture-1c1917?style=for-the-badge&labelColor=ec4899&color=1c1917)
-![Collab](https://img.shields.io/badge/👥_Open_to-Full--Stack_%26_Backend_Projects-1c1917?style=for-the-badge&labelColor=0891b2&color=1c1917)
-![AskMe](https://img.shields.io/badge/💬_Ask_me_about-Clean_Code_%26_Architecture-1c1917?style=for-the-badge&labelColor=ec4899&color=1c1917)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/📍_Based_in-Tehran,_Iran-1c1917?style=for-the-badge&labelColor=0891b2&color=1c1917" />
+  <img src="https://img.shields.io/badge/📍_Based_in-Tehran,_Iran-e5e7eb?style=for-the-badge&labelColor=0891b2&color=e5e7eb" alt="Location" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/🧠_Learning-Java_%26_Backend_Architecture-1c1917?style=for-the-badge&labelColor=ec4899&color=1c1917" />
+  <img src="https://img.shields.io/badge/🧠_Learning-Java_%26_Backend_Architecture-e5e7eb?style=for-the-badge&labelColor=ec4899&color=e5e7eb" alt="Learning" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/👥_Open_to-Full--Stack_%26_Backend_Projects-1c1917?style=for-the-badge&labelColor=0891b2&color=1c1917" />
+  <img src="https://img.shields.io/badge/👥_Open_to-Full--Stack_%26_Backend_Projects-e5e7eb?style=for-the-badge&labelColor=0891b2&color=e5e7eb" alt="Collab" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/💬_Ask_me_about-Clean_Code_%26_Architecture-1c1917?style=for-the-badge&labelColor=ec4899&color=1c1917" />
+  <img src="https://img.shields.io/badge/💬_Ask_me_about-Clean_Code_%26_Architecture-e5e7eb?style=for-the-badge&labelColor=ec4899&color=e5e7eb" alt="AskMe" />
+</picture>
 
-[![Email](https://img.shields.io/badge/Email-omidbehzadpoor1386%40gmail.com-1c1917?style=for-the-badge&logo=gmail&logoColor=ec4899&labelColor=1c1917)](mailto:omidbehzadpoor1386@gmail.com)
+<a href="mailto:omidbehzadpoor1386@gmail.com">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-omidbehzadpoor1386%40gmail.com-1c1917?style=for-the-badge&logo=gmail&logoColor=ec4899&labelColor=1c1917" />
+  <img src="https://img.shields.io/badge/Email-omidbehzadpoor1386%40gmail.com-e5e7eb?style=for-the-badge&logo=gmail&logoColor=ec4899&labelColor=e5e7eb" alt="Email" />
+</picture>
+</a>
 
 </div>
 
@@ -30,7 +47,10 @@ I'm a Computer Engineering student at **Amirkabir University of Technology**. I'
 ## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,kotlin,c,cpp,py,spring,html,css,idea,postgres,mysql,docker,linux,ubuntu,git,vscode&theme=dark&perline=8" alt="Tech Stack Icons"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,kotlin,c,cpp,py,spring,html,css,idea,postgres,mysql,docker,linux,ubuntu,git,vscode&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,c,cpp,py,spring,html,css,idea,postgres,mysql,docker,linux,ubuntu,git,vscode&theme=light&perline=8" alt="Tech Stack Icons"/>
+</picture>
 <br/><br/>
  
 **Languages**
@@ -84,10 +104,19 @@ My GitHub contribution graph as a playful animated SVG — contribution boxes po
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=OmidBehzadpoor&show_icons=true&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="OmidBehzadpoor's GitHub stats" />
-<img src="https://streak-stats.demolab.com/?user=OmidBehzadpoor&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="OmidBehzadpoor's GitHub streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=OmidBehzadpoor&show_icons=true&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api?username=OmidBehzadpoor&show_icons=true&count_private=true&title_color=ec4899&text_color=1c1917&icon_color=0891b2&bg_color=ffffff&hide_border=true" alt="OmidBehzadpoor's GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=OmidBehzadpoor&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=OmidBehzadpoor&stroke=1c1917&background=ffffff&ring=ec4899&fire=ec4899&currStreakNum=1c1917&currStreakLabel=ec4899&sideNums=1c1917&sideLabels=1c1917&dates=1c1917&hide_border=true" alt="OmidBehzadpoor's GitHub streak" />
+</picture>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=OmidBehzadpoor&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="48%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=OmidBehzadpoor&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=OmidBehzadpoor&langs_count=10&title_color=ec4899&text_color=1c1917&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="48%" />
+</picture>
 
 </div>
 
@@ -95,8 +124,18 @@ My GitHub contribution graph as a playful animated SVG — contribution boxes po
 
 <div align="center">
 
-<a href="https://github.com/OmidBehzadpoor/SecondHand"><img width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=OmidBehzadpoor&repo=SecondHand&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-<a href="https://github.com/OmidBehzadpoor/Plants-vs-Zombies"><img width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=OmidBehzadpoor&repo=Plants-vs-Zombies&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/OmidBehzadpoor/SecondHand">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=OmidBehzadpoor&repo=SecondHand&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  <img width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=OmidBehzadpoor&repo=SecondHand&title_color=ec4899&text_color=1c1917&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" />
+</picture>
+</a>
+<a href="https://github.com/OmidBehzadpoor/Plants-vs-Zombies">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=OmidBehzadpoor&repo=Plants-vs-Zombies&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  <img width="45%" src="https://github-stats-extended.vercel.app/api/pin/?username=OmidBehzadpoor&repo=Plants-vs-Zombies&title_color=ec4899&text_color=1c1917&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" />
+</picture>
+</a>
 
 </div>
 
@@ -107,7 +146,10 @@ My GitHub contribution graph as a playful animated SVG — contribution boxes po
 <div align="center">
 
 <a href="https://www.github.com/OmidBehzadpoor" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/github/ffffff" width="36" height="36" alt="GitHub" title="GitHub" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff" />
+    <img src="https://cdn.simpleicons.org/github/1c1917" width="36" height="36" alt="GitHub" title="GitHub" />
+  </picture>
 </a>
 <a href="https://www.gitlab.com/OmidBehzadpoor" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/gitlab/FC6D26" width="36" height="36" alt="GitLab" title="GitLab" />
