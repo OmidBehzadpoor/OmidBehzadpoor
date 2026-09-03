@@ -71,7 +71,10 @@ I'm a Computer Engineering student at **Amirkabir University of Technology**. I'
 
 My GitHub contribution graph as a playful animated SVG — contribution boxes pop in sequence, regenerated daily from my real activity via [Readme-Contribution-Graph-Generator](https://github.com/Man0dya/Readme-Contribution-Graph-Generator).
 
-![Contribution Animation](github-contribution-animation.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-animation-dark.svg" />
+  <img alt="Contribution Animation" src="github-contribution-animation.svg" />
+</picture>
 
 </div>
 

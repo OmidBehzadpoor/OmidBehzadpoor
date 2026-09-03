@@ -8,10 +8,10 @@ name: Generate Contribution Animation
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Daily at 00:00 UTC
+    - cron: "0 0 * * *" # Daily at 00:00 UTC
   workflow_dispatch: # lets you trigger it manually from the Actions tab
   push:
-    branches: [ main ]
+    branches: [main]
 
 permissions:
   contents: write
@@ -30,7 +30,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: "20"
 
       - name: Fetch generator script
         # Pulled fresh from the upstream repo on every run so it always
@@ -51,4 +51,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update contribution animation [skip ci]"
-          file_pattern: "*-contribution-animation.svg contribution-animation.svg github-contribution-animation.svg"
+          file_pattern: "*-contribution-animation.svg contribution-animation.svg github-contribution-animation.svg *-contribution-animation-dark.svg contribution-animation-dark.svg github-contribution-animation-dark.svg"
