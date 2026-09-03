@@ -17,8 +17,8 @@ I'm a Computer Engineering student at **Amirkabir University of Technology**. I'
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/📍_Based_in-Tehran,_Iran-1c1917?style=for-the-badge&labelColor=0891b2&color=1c1917" />
-  <img src="https://img.shields.io/badge/📍_Based_in-Tehran,_Iran-e5e7eb?style=for-the-badge&labelColor=0891b2&color=e5e7eb" alt="Location" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/📍_Based_in-Tehran%2C_Iran-1c1917?style=for-the-badge&labelColor=0891b2&color=1c1917" />
+  <img src="https://img.shields.io/badge/📍_Based_in-Tehran%2C_Iran-e5e7eb?style=for-the-badge&labelColor=0891b2&color=e5e7eb" alt="Location" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/🧠_Learning-Java_%26_Backend_Architecture-1c1917?style=for-the-badge&labelColor=ec4899&color=1c1917" />
@@ -48,8 +48,8 @@ I'm a Computer Engineering student at **Amirkabir University of Technology**. I'
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,kotlin,c,cpp,py,spring,html,css,idea,postgres,mysql,docker,linux,ubuntu,git,vscode&theme=dark&perline=8" />
-  <img src="https://skillicons.dev/icons?i=java,kotlin,c,cpp,py,spring,html,css,idea,postgres,mysql,docker,linux,ubuntu,git,vscode&theme=light&perline=8" alt="Tech Stack Icons"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Ckotlin%2Cc%2Ccpp%2Cpy%2Cspring%2Chtml%2Ccss%2Cidea%2Cpostgres%2Cmysql%2Cdocker%2Clinux%2Cubuntu%2Cgit%2Cvscode&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java%2Ckotlin%2Cc%2Ccpp%2Cpy%2Cspring%2Chtml%2Ccss%2Cidea%2Cpostgres%2Cmysql%2Cdocker%2Clinux%2Cubuntu%2Cgit%2Cvscode&theme=light&perline=8" alt="Tech Stack Icons"/>
 </picture>
 <br/><br/>
  
