@@ -1,6 +1,9 @@
-# Regenerates github-contribution-animation.svg every day from your live
-# GitHub contribution graph and commits it back, so the animation in your
-# README stays current.
+# Regenerates the contribution-graph animation SVGs every day from your live
+# GitHub contribution graph and publishes them to a separate `output` branch.
+#
+# Why a separate branch? Commits on non-default branches are NOT counted in
+# your contribution graph, so this workflow never inflates your stats and
+# never pollutes the history of `main`.
 #
 # Generator: https://github.com/Man0dya/Readme-Contribution-Graph-Generator
 
@@ -33,10 +36,9 @@ jobs:
           node-version: "20"
 
       - name: Fetch generator script
-        # Pulled fresh from the upstream repo on every run so it always
-        # matches the latest version of the tool. If you'd rather pin a
-        # copy, download scripts/generate-svg.cjs from the source repo and
-        # commit it into your own scripts/ folder instead of this step.
+        # Security note: this downloads and runs code from another repo.
+        # To pin it, replace `main` in the URL with a specific commit SHA,
+        # or copy the script into your own scripts/ folder and delete this step.
         run: |
           mkdir -p scripts
           curl -fsSL -o scripts/generate-svg.cjs \
@@ -47,8 +49,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit and push updated SVGs
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: update contribution animation [skip ci]"
-          file_pattern: "*-contribution-animation.svg contribution-animation.svg github-contribution-animation.svg *-contribution-animation-dark.svg contribution-animation-dark.svg github-contribution-animation-dark.svg"
+      - name: Publish SVGs to the output branch
+        run: |
+          mkdir -p /tmp/out
+          cp github-contribution-animation.svg github-contribution-animation-dark.svg /tmp/out/
+          cd /tmp/out
+          git init -b output
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "chore: update contribution animation"
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" output
